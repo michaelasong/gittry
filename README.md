@@ -1,0 +1,2 @@
+# gittry
+creating new git
